@@ -26,7 +26,7 @@ Books:
 		
 	Upgrade 
 	
-	
+		(no book info)
 	
 	Que nos interesa en CETEC?
 	
