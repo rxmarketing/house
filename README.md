@@ -1,17 +1,13 @@
 #Capacitacion
 ###Empresa: Hamilton House (English Language Teaching)
 
-Por:Euro Latin Books
+Por: Euro Latin Books
 	
-*Books:
-	
+* Books:
 	**Hot shots 
-	
 		***(induccion, kids)
-	
-	
+
 	**English Download 
-	
 		*** Jovenes adultos
 		*** 6 niveles
 		*** Stud book + E-book
