@@ -4,16 +4,16 @@
 Por: Euro Latin Books
 	
 * Books:
-**Hot shots (induccion, kids)
-**English Download 
-*** Jovenes adultos
-*** 6 niveles
-*** Stud book + E-book
-*** Workbook
-*** Grammar book
-*** 120 hrs - 160hrs+Grammar book
-*** Digital book for teachers
-*** Plataforma en linea (en proceso)
+ **Hot shots (induccion, kids)
+ **English Download 
+  *** Jovenes adultos
+  *** 6 niveles
+  *** Stud book + E-book
+  *** Workbook
+  *** Grammar book
+  *** 120 hrs - 160hrs+Grammar book
+  *** Digital book for teachers
+  *** Plataforma en linea (en proceso)
 		
 	**Upgrade 
 	
