@@ -3,9 +3,9 @@
 
 Por: Euro Latin Books
 	
-* Books:
-  *Hot shots (induccion, kids)
-  *English Download 
+###Books:
+ * Hot shots (induccion, kids)
+ * English Download 
    * Jovenes adultos
    * 6 niveles
    * Stud book + E-book
