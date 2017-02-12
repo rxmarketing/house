@@ -1,34 +1,31 @@
 #Capacitacion
-Empresa:
-	Hamilton House
-		English Language Teaching
+###Empresa: Hamilton House (English Language Teaching)
 
-Por:	
-	Euro Latin Books
+Por:Euro Latin Books
 	
-Books:
+*Books:
 	
-	Hot shots 
+	**Hot shots 
 	
-		(induccion, kids)
+		***(induccion, kids)
 	
 	
-	English Download 
+	**English Download 
 	
-		Jovenes adultos
-		6 niveles
-		Stud book + E-book
-		Workbook
-		Grammar book
-		120 hrs - 160hrs+Grammar book
-		Digital book for teachers
-		Plataforma en linea (en proceso)
+		*** Jovenes adultos
+		*** 6 niveles
+		*** Stud book + E-book
+		*** Workbook
+		*** Grammar book
+		*** 120 hrs - 160hrs+Grammar book
+		*** Digital book for teachers
+		*** Plataforma en linea (en proceso)
 		
-	Upgrade 
+	**Upgrade 
 	
-		(no book info)
+		***(no book info)
 	
-	Que nos interesa en CETEC?
+	##Que nos interesa en CETEC?
 	
 		Skills:
 		
