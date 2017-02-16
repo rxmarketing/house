@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/custom.css",
+	"sources": [
+		"../scss/custom.scss"
+	],
+	"sourcesContent": [
+		"body {\r\n  padding-top: 3.5rem;\r\n}\r\n"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,MAAO;CACrB",
+	"names": []
+}
